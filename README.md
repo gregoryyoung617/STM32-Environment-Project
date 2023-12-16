@@ -1,0 +1,1 @@
+This is a project for the STM32 Microcontroller written in C using OneWire and i2c LCD libraries. The purpose is to calculate the insulation efficiency of any window to let you know if you should replace your windows to save money on heating.
